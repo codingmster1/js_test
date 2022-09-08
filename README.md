@@ -1,3 +1,3 @@
 # js_test
 
-Testing javascript with basic code. Prints "Hello World"!
+Testing javascript with basic code. 
